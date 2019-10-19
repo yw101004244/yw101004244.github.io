@@ -79,14 +79,14 @@
 
 
 
-<meta name="description" content="暑假写插入排序的时候一不小心写出来一个假的排序算法 居然可以排序！当时我惊呆了！ 它的过程不像插入排序，但是从结果看又像插入排序…… 代码：123456789101112131415161718void sort(int *p,int length)&amp;#123; 	int i,j,temp;	for(i=1;i&amp;lt;length;i++)&#x2F;&#x2F;每次都是p[i]前面的元素全部排好序，然后i++ 	f">
+<meta name="description" content="和差化积记忆方法学习三角函数时大家一定听说过和差化积，在这里介绍一种不错的记忆推导方法： 由：$$cos(a+b)=cosacosb-sinasinb\cos(a-b)=cosacosb+sinasinb$$两式相加得：$$cos(a+b)+cos(a-b)=2cosacosb\tag{1}$$再令：$$        a+b=x\        a-b=y        \tag{2}$$则有：">
 <meta property="og:type" content="article">
-<meta property="og:title" content="一个假的插入排序算法">
-<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;2019&#x2F;10&#x2F;19&#x2F;%E4%B8%80%E4%B8%AA%E5%81%87%E7%9A%84%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95&#x2F;index.html">
+<meta property="og:title" content="和差化积">
+<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;2019&#x2F;10&#x2F;19&#x2F;%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF&#x2F;index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="暑假写插入排序的时候一不小心写出来一个假的排序算法 居然可以排序！当时我惊呆了！ 它的过程不像插入排序，但是从结果看又像插入排序…… 代码：123456789101112131415161718void sort(int *p,int length)&amp;#123; 	int i,j,temp;	for(i=1;i&amp;lt;length;i++)&#x2F;&#x2F;每次都是p[i]前面的元素全部排好序，然后i++ 	f">
+<meta property="og:description" content="和差化积记忆方法学习三角函数时大家一定听说过和差化积，在这里介绍一种不错的记忆推导方法： 由：$$cos(a+b)=cosacosb-sinasinb\cos(a-b)=cosacosb+sinasinb$$两式相加得：$$cos(a+b)+cos(a-b)=2cosacosb\tag{1}$$再令：$$        a+b=x\        a-b=y        \tag{2}$$则有：">
 <meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2019-10-19T08:33:08.985Z">
+<meta property="og:updated_time" content="2019-10-19T08:49:13.875Z">
 <meta name="twitter:card" content="summary">
 
 
@@ -117,13 +117,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2019/10/19/一个假的插入排序算法/"/>
+  <link rel="canonical" href="http://yoursite.com/2019/10/19/和差化积/"/>
 
 
 
 
 
-  <title>一个假的插入排序算法 | Hexo</title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
+  <title>和差化积 | Hexo</title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
   
 
 
@@ -230,7 +230,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/10/19/%E4%B8%80%E4%B8%AA%E5%81%87%E7%9A%84%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/10/19/%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="John Doe">
@@ -247,7 +247,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">一个假的插入排序算法</h1>
+          <h1 class="post-title" itemprop="name headline">和差化积</h1>
         
 
         <div class="post-meta">
@@ -259,7 +259,7 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-10-19T16:32:06+08:00">
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-10-19T16:39:41+08:00">
                 2019-10-19
               </time>
             
@@ -297,15 +297,8 @@
       
 
       
-        <p>暑假写插入排序的时候一不小心写出来一个假的排序算法</p>
-<p>居然可以排序！当时我惊呆了！</p>
-<p>它的过程不像插入排序，但是从结果看又像插入排序……</p>
-<h4 id="代码："><a href="#代码：" class="headerlink" title="代码："></a>代码：</h4><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">sort</span><span class="params">(<span class="keyword">int</span> *p,<span class="keyword">int</span> length)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"> 	<span class="keyword">int</span> i,j,temp;</span><br><span class="line">	<span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;length;i++)<span class="comment">//每次都是p[i]前面的元素全部排好序，然后i++ </span></span><br><span class="line">	<span class="keyword">for</span>(j=<span class="number">0</span>;j&lt;i;j++)</span><br><span class="line">	&#123;</span><br><span class="line">        <span class="comment">//从过程看，它每次都是把P[i]前面的元素排好序</span></span><br><span class="line">        <span class="comment">//从结果看，它每次都是将p[i-1]插入到前面合适的位置，即插入排序</span></span><br><span class="line">        </span><br><span class="line">		<span class="keyword">if</span>(p[j]&gt;p[i])<span class="comment">//如果p[j]&gt;p[i]，交换位置 </span></span><br><span class="line">		&#123;</span><br><span class="line">			temp=p[j];</span><br><span class="line">			p[j]=p[i];</span><br><span class="line">			p[i]=temp;</span><br><span class="line">		&#125;</span><br><span class="line">  </span><br><span class="line">	&#125;</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）："><a href="#算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）：" class="headerlink" title="算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）："></a>算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）：</h4><h5 id="正版的插入排序："><a href="#正版的插入排序：" class="headerlink" title="正版的插入排序："></a>正版的插入排序：</h5><p>  每次插入的时候都要跟前面的元素全部比较一次，然后把后面的元素全部后移。</p>
-<p>所以假设每一次插入的元素是p[i]，则每次插入的时间复杂度都是i，那么所有插入全部算下来就是<br>$$<br>\frac{(1+n)n}{2}=O(n^2)<br>$$</p>
-<h5 id="假的插入排序："><a href="#假的插入排序：" class="headerlink" title="假的插入排序："></a>假的插入排序：</h5><p>  每次插入时先比较一波，找到位置以后利用temp进行交换位置，设p[i]应该插入的位置为k(k&lt;i)，则每次插入的时间复杂度是<br>$$<br>k+3(i-k)=3i-2k&gt;i<br>$$<br>正版插入排序每次插入的时间复杂度为i，而假的插入排序每次插入的时间复杂度为3i-2k，它比i大，因此不可取</p>
-<h4 id="结果："><a href="#结果：" class="headerlink" title="结果："></a>结果：</h4><p>综上所述，分析了一波以后，这个算法并没有什么卵用，因为它的时间复杂度还是O(n^2)，而且比插入排序更慢……</p>
+        <h3 id="和差化积记忆方法"><a href="#和差化积记忆方法" class="headerlink" title="和差化积记忆方法"></a>和差化积记忆方法</h3><p>学习三角函数时大家一定听说过和差化积，在这里介绍一种不错的记忆推导方法：</p>
+<p>由：<br>$$<br>cos(a+b)=cosacosb-sinasinb\cos(a-b)=cosacosb+sinasinb<br>$$<br>两式相加得：<br>$$<br>cos(a+b)+cos(a-b)=2cosacosb\tag{1}<br>$$<br>再令：<br>$$<br>        a+b=x\<br>        a-b=y<br>        \tag{2}<br>$$<br>则有：<br>$$<br>        a=\frac{x+y}{2}\<br>        b=\frac{x-y}{2}<br>\tag{3}<br>$$<br>将（2）代入(1)的左边，（3）代入（1）的右边，得到：<br>$$<br>cosx+cosy=2cos\frac{x+y}{2}cos\frac{x-y}{2}<br>$$</p>
 
       
     </div>
@@ -330,15 +323,15 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
+              <a href="/2019/10/19/%E4%B8%80%E4%B8%AA%E5%81%87%E7%9A%84%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/" rel="next" title="一个假的插入排序算法">
+                <i class="fa fa-chevron-left"></i> 一个假的插入排序算法
+              </a>
+            
           </div>
 
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2019/10/19/%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF/" rel="prev" title="和差化积">
-                和差化积 <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -452,7 +445,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#代码："><span class="nav-number">1.</span> <span class="nav-text">代码：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）："><span class="nav-number">2.</span> <span class="nav-text">算法比较（定性分析，算的不是特别精确，忽略了一些常数的时间复杂度）：</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#正版的插入排序："><span class="nav-number">2.1.</span> <span class="nav-text">正版的插入排序：</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#假的插入排序："><span class="nav-number">2.2.</span> <span class="nav-text">假的插入排序：</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#结果："><span class="nav-number">3.</span> <span class="nav-text">结果：</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#和差化积记忆方法"><span class="nav-number">1.</span> <span class="nav-text">和差化积记忆方法</span></a></li></ol></div>
             
 
           </div>
