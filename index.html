@@ -787,10 +787,10 @@
     var titleTime;
     document.addEventListener('visibilitychange', function() {
       if (document.hidden) {
-        document.title = '猜猜我是谁~' + OriginTitile;
+        document.title = '快点进来~' + OriginTitile;
         clearTimeout(titleTime);
       } else {
-        document.title = 'tql!' + OriginTitile;
+        document.title = '哇，学神！' + OriginTitile;
         titleTime = setTimeout(function() {
           document.title = OriginTitile;
         }, 2000);
