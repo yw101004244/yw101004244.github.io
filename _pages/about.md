@@ -40,7 +40,7 @@ Preprint
 
 [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
 
-**Wei Yao***, Zhanke Zhou*, Zhicong Li, Bo Han, Yong Liu
+**Wei Yao**\*, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 
 arxiv preprint
 
