@@ -22,7 +22,7 @@ Publications
 
 <br/>
 
-[Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
+[**Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training**](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
 Pengwei Tang\*, **Wei Yao**\*, Zhicong Li, Yong Liu
 
@@ -30,7 +30,7 @@ CVPR 2023
 
 <br/>
 
-Random Smooth-based Certified Defense against Text Adversarial Attack
+**Random Smooth-based Certified Defense against Text Adversarial Attack**
 
 Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 
@@ -43,7 +43,7 @@ Preprint
 
 <br/>
 
-[Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+[**Understanding Fairness Surrogate Functions in Algorithmic Fairness**](https://arxiv.org/pdf/2310.11211.pdf)
 
 **Wei Yao**\*, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 
