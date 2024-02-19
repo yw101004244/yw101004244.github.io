@@ -47,7 +47,7 @@ Findings of EACL 2024
 arxiv preprint  
 
 ### [Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/pdf/2401.08734.pdf)
-Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
+Zeliang Zhang, Rongyi Zhu, **Wei Yao**, Xiaosen Wang, Chenliang Xu
 <br>
 arxiv preprint  
 
