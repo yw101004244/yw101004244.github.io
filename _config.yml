@@ -24,7 +24,7 @@ author:
   avatar           : "yw_1.jpg"
   name             : "Wei Yao"
   pronouns         : # example: "she/her"  
-  bio              : "A second-year PhD student in Renmin University of China"
+  bio              : "A second year PhD student in Renmin University of China"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   uri              : # URL
@@ -199,16 +199,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
