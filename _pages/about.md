@@ -22,7 +22,6 @@ Publications
 
 <br/>
 
-
 [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
 Pengwei Tang\*, **Wei Yao**\*, Zhicong Li, Yong Liu
@@ -36,6 +35,7 @@ Random Smooth-based Certified Defense against Text Adversarial Attack
 Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 
 Findings of EACL 2023  
+<br/>
 
 Preprint
 ======
@@ -49,7 +49,7 @@ Preprint
 
 arxiv preprint  
 
-
+<br/>
 
 Honors and Awards
 ======
