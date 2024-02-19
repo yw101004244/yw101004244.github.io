@@ -30,7 +30,7 @@ CVPR 2023
 
 Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 <br>
-Findings of EACL 2023  
+Findings of EACL 2024  
 
 
 # Preprint
