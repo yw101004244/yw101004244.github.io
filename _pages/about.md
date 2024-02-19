@@ -9,14 +9,13 @@ redirect_from:
 
 Hello! I'm a second-year PhD student in Gaoling School of Artificial Intelligence, Renmin University of China. I research on trustworthy AI (especially fairness and robustness). 
 
-Education
-======
+## Education
+
 2018-2022: Huazhong University of Science and Technology
 
 2022-present: Renmin University of China
 
-Publications
-======
+## Publications
 
 \* indicates equal contribution
 
@@ -33,8 +32,8 @@ Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 
 Findings of EACL 2023  
 
-Preprint
-======
+## Preprint
+
 \* indicates equal contribution
 
 [**Understanding Fairness Surrogate Functions in Algorithmic Fairness**](https://arxiv.org/pdf/2310.11211.pdf)
@@ -43,8 +42,7 @@ Preprint
 
 arxiv preprint  
 
-Honors and Awards
-======
+## Honors and Awards
 
 National Scholarship, 2019
 
