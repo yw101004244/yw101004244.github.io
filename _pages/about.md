@@ -26,7 +26,8 @@ Pengwei Tang\*, **Wei Yao**\*, Zhicong Li, Yong Liu
 
 CVPR 2023  
 
-
+<br/>
+<br/>
 
 Random Smooth-based Certified Defense against Text Adversarial Attack
 
@@ -43,6 +44,8 @@ Preprint
 **Wei Yao**\*, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 
 arxiv preprint  
+
+
 
 Honors and Awards
 ======
