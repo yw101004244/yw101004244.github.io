@@ -19,14 +19,14 @@ Hello! I'm a second-year PhD student in Gaoling School of Artificial Intelligenc
 
 \* indicates equal contribution
 
-### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
+## [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
 Pengwei Tang\*, **Wei Yao**\*, Zhicong Li, Yong Liu
 <br>
 CVPR 2023  
 
 
-### Random Smooth-based Certified Defense against Text Adversarial Attack
+## Random Smooth-based Certified Defense against Text Adversarial Attack
 
 Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 <br>
@@ -37,9 +37,17 @@ Findings of EACL 2023
 
 \* indicates equal contribution
 
-### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+
+
+
+## [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
 
 **Wei Yao**\*, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
+<br>
+arxiv preprint  
+
+## [Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/pdf/2401.08734.pdf)
+Zeliang Zhang, Rongyi Zhu, Wei Yao, Xiaosen Wang, Chenliang Xu
 <br>
 arxiv preprint  
 
