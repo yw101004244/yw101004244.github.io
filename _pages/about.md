@@ -26,7 +26,7 @@ Pengwei Tang\*, Wei Yao\*, Zhicong Li, Yong Liu
 
 CVPR 2023
 
-
+\n
 
 Random Smooth-based Certified Defense against Text Adversarial Attack
 
