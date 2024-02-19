@@ -24,7 +24,7 @@ Publications
 
 Pengwei Tang\*, **Wei Yao**\*, Zhicong Li, Yong Liu
 
-CVPR 2023
+CVPR 2023  
 
 
 
@@ -32,7 +32,7 @@ Random Smooth-based Certified Defense against Text Adversarial Attack
 
 Zeliang Zhang\*, **Wei Yao**\*, Susan Liang, Chenliang Xu
 
-Findings of EACL 2023
+Findings of EACL 2023  
 
 Preprint
 ======
@@ -42,7 +42,7 @@ Preprint
 
 **Wei Yao**\*, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 
-arxiv preprint
+arxiv preprint  
 
 Honors and Awards
 ======
