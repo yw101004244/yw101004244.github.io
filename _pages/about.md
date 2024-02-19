@@ -11,9 +11,9 @@ Hello! I'm a second-year PhD student in Gaoling School of Artificial Intelligenc
 
 # Education
 
-2018-2022: Huazhong University of Science and Technology
+- 2018-2022: Huazhong University of Science and Technology
 
-2022-present: Renmin University of China
+- 2022-present: Renmin University of China
 
 # Publications
 
