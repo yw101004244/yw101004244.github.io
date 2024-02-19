@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wei Yao / Lifelong learner"
+title                    : "Wei Yao / Lifelong Learner"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
