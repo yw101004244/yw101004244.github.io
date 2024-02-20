@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, everyone! I'm a second-year PhD student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I'm interested in trustworthy AI (especially fairness and robustness) and AI alignment. 
+Hi, everyone! I'm a second-year PhD student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). 
 
-Welcome to cooperation and discussion! I am willing to participate in and contribute to research! I'm particularly excited about the fundamental understanding of some interesting problems! Feel free to contact me! 
+I'm interested in trustworthy AI (especially fairness and robustness) and AI alignment. Welcome to cooperation and discussion! I am willing to participate in and contribute to research! I'm particularly excited about the fundamental understanding of some interesting problems! Feel free to contact me! 
 
 # Education
 
