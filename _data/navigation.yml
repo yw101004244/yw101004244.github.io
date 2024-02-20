@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "My Past"
-    url: /year-archive/
+  # - title: "My Past"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
