@@ -41,7 +41,7 @@ Findings of EACL 2024
 
 ### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
 
-Chen Qian*, Jie Zhang*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
+Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
 arxiv preprint
 
