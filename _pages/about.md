@@ -35,6 +35,13 @@ Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
 Findings of EACL 2024  
 
 
+### Robust Graph Recommendation via Noise-Aware Adversarial Perturbation
+
+Jiakai Tang, Zexu Sun, **Wei Yao**, Xu Chen
+<br>
+DASFAA 2024  
+
+
 # Preprint
 
 \* indicates equal contribution
