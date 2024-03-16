@@ -13,9 +13,9 @@ I'm interested in trustworthy AI (especially fairness and robustness). Welcome t
 
 # Education
 
-- 2018-2022: B.E. in software engineering, Huazhong University of Science and Technology
+- 2018-2022: B.E. in Software Engineering from Huazhong University of Science and Technology.
 
-- 2022-Present: PhD student in artificial intelligence, Renmin University of China
+- 2022-Present: PhD Student in Artificial Intelligence at Renmin University of China.
 
 # Publications
 
