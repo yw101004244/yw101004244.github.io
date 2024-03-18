@@ -28,7 +28,7 @@ Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
 CVPR 2023  
 
 
-### Random Smooth-based Certified Defense against Text Adversarial Attack
+### [Random Smooth-based Certified Defense against Text Adversarial Attack](https://aclanthology.org/2024.findings-eacl.83.pdf)
 
 Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
 <br>
