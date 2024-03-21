@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 Hi, everyone! I'm a second-year PhD student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). 
 
 I'm interested in trustworthy AI (especially fairness and robustness). Welcome to cooperation and discussion! I am willing to participate in and contribute to research! I'm particularly excited about the fundamental understanding of some interesting problems! Feel free to contact me! 
 
 # Education
+---
 
 - 2018-2022: B.E. in Software Engineering from Huazhong University of Science and Technology.
 
 - 2022-Present: PhD Student in Artificial Intelligence at Renmin University of China.
 
 # Publications
+---
 
 \* indicates equal contribution
 
@@ -43,6 +47,7 @@ DASFAA 2024
 
 
 # Preprint
+---
 
 \* indicates equal contribution
 
@@ -64,6 +69,7 @@ Zeliang Zhang, Rongyi Zhu, **Wei Yao**, Xiaosen Wang, Chenliang Xu
 arxiv preprint  
 
 # Honors and Awards
+---
 
 National Scholarship, 2019
 
