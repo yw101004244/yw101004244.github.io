@@ -36,7 +36,7 @@ CVPR 2023
 
 Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
 <br>
-Findings of EACL 2024  
+EACL 2024 (Findings)
 
 
 ### Robust Graph Recommendation via Noise-Aware Adversarial Perturbation
