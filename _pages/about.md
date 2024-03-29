@@ -31,6 +31,11 @@ Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
 <br>
 CVPR 2023  
 
+### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+
+**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
+<br>
+TMLR 2024  
 
 ### [Random Smooth-based Certified Defense against Text Adversarial Attack](https://aclanthology.org/2024.findings-eacl.83.pdf)
 
@@ -56,12 +61,6 @@ DASFAA 2024
 Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
 arxiv preprint
-
-### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
-
-**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
-<br>
-arxiv preprint  
 
 ### [Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/pdf/2401.08734.pdf)
 Zeliang Zhang, Rongyi Zhu, **Wei Yao**, Xiaosen Wang, Chenliang Xu
