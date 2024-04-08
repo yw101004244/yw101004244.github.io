@@ -31,7 +31,7 @@ Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
 <br>
 CVPR 2023  
 
-### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://openreview.net/pdf?id=iBgmoMTlaz)
 
 **Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 <br>
