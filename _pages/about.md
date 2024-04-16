@@ -67,19 +67,15 @@ Zeliang Zhang, Rongyi Zhu, **Wei Yao**, Xiaosen Wang, Chenliang Xu
 <br>
 arxiv preprint  
 
+# Research Intern
+---
+
+2023.10-2024.3: Shanghai AI Laboratory
+
+
 # Honors and Awards
 ---
 
 National Scholarship, 2019
-
-
-
-
-
-
-
-
-
-
 
 
