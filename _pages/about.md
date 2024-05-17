@@ -43,6 +43,11 @@ Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
 <br>
 EACL 2024 (Findings)
 
+### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
+
+Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
+<br>
+ACL 2024 (Findings)
 
 ### Robust Graph Recommendation via Noise-Aware Adversarial Perturbation
 
@@ -55,12 +60,6 @@ DASFAA 2024
 ---
 
 \* indicates equal contribution
-
-### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
-
-Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
-<br>
-arxiv preprint
 
 ### [Bag of Tricks to Boost Adversarial Transferability](https://arxiv.org/pdf/2401.08734.pdf)
 Zeliang Zhang, Rongyi Zhu, **Wei Yao**, Xiaosen Wang, Chenliang Xu
