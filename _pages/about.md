@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, everyone! I'm a second-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). 
 
-I am deeply interested in the understanding of trustworthy AI, with a focus on fairness and robustness. My enthusiasm lies in the fundamental exploration of those intriguing challenges. I welcome opportunities for collaboration and discussion!
+I am deeply interested in understanding trustworthy AI, with a focus on fairness and robustness. My enthusiasm lies in the fundamental exploration of those intriguing challenges. I welcome opportunities for collaboration and discussion!
 
 # Education
 ---
