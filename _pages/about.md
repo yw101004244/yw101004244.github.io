@@ -9,16 +9,16 @@ redirect_from:
 
 ---
 
-Hi, everyone! I'm a second-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). 
+Hi, everyone! I'm a second-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I received my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
 I am deeply interested in understanding trustworthy AI, particularly focusing on fairness and robustness. My enthusiasm lies in developing trustworthy AI solutions with theoretical insights. I welcome opportunities for collaboration and discussion!
 
-# Education
+<!--# Education
 ---
 
 - 2018-2022: B.E. in Software Engineering from Huazhong University of Science and Technology.
 
-- 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.
+- 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
 # Selected Publications
 ---
