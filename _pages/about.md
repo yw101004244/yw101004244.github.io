@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, welcome! I'm currently a second-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I previously earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
-I am deeply interested in understanding trustworthy AI, particularly focusing on fairness and robustness. My enthusiasm lies in developing trustworthy AI solutions with theoretical insights. I welcome opportunities for collaboration and discussion!
+I am deeply interested in understanding trustworthy AI, particularly focusing on fairness and robustness. My enthusiasm lies in developing trustworthy AI solutions with theoretical insights. I welcome opportunities for collaboration and discussion! 
 
 <!--# Education
 ---
@@ -53,7 +53,7 @@ CVPR 2023
 # Research Intern
 ---
 
-- 2023.10-2024.3: Shanghai AI Laboratory, hosted by [Dr. Jing Shao](https://amandajshao.github.io/).
+- 2023.10-2024.3: Shanghai AI Laboratory, Research Intern in [OpenTrustLab](https://open-trust-lab.vercel.app/).
 
 # Honors and Awards
 ---
