@@ -64,6 +64,4 @@ CVPR 2023
 
 National Scholarship, 2019
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3BQGgPKAm2-CKP9JJz6BeOa8KCA0cMy5vVNPDbNIRfU&cl=ffffff&w=a"></script>
-
 
