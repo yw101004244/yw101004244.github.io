@@ -64,5 +64,4 @@ CVPR 2023
 
 National Scholarship, 2019
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fyw101004244.github.io%2F&countColor=%23263759)
 
