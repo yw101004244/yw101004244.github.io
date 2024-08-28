@@ -57,7 +57,7 @@ CVPR 2023
 # Research Intern
 ---
 
-- 2023.10-2024.3: Shanghai AI Laboratory, research intern, mentor: [Dr. Jing Shao]([https://open-trust-lab.vercel.app/](https://amandajshao.github.io/)).
+- 2023.10-2024.3: Shanghai AI Laboratory, research intern, mentor: [Dr. Jing Shao](https://amandajshao.github.io/).
 
 # Honors and Awards
 ---
