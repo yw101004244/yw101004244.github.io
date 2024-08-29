@@ -11,11 +11,11 @@ redirect_from:
 
 Hi there, welcome! I'm currently a second-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I previously earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
-I am deeply interested in understanding Responsible/Trustworthy AI and developing solid solutions for it, particularly focusing on fairness and robustness:
+I am interested in Responsible AI and Trustworthy AI, particularly focusing on fairness and robustness:
 - **Fairness**. Formulating intuitive and rigorous solutions to reduce AI discrimination.
 - **Robustness**. Developing powerful and solid attack and defense algorithms for AI.
 
-Currently, I am also interested in **AI alignment** and aim to bridge the research gap between trustworthy AI and AI alignment.
+Currently, I am also interested in **AI alignment** and aim to bridge the research gap between responsible AI and AI alignment.
 
 <!--# Education
 ---
