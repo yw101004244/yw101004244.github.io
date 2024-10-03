@@ -67,6 +67,7 @@ National Scholarship, 2019
 # Service
 ---
 
-Reviewer: ICLR 2025, AISTATS 2025, TMLR.
+Conference Reviewer: ICLR 2025, AISTATS 2025
+Journal Reviewer: Transactions on Machine Learning Research
 
 
