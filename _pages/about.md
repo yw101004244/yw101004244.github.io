@@ -15,7 +15,7 @@ I am interested in responsible AI and trustworthy AI, particularly focusing on f
 - **Fairness**. Formulating intuitive and rigorous solutions to reduce AI discrimination.
 - **Robustness**. Developing powerful and solid attack and defense algorithms for AI.
 
-Currently, I am also interested in **AI alignment** and aim to bridge the research gap between responsible AI and AI alignment.
+Currently, I am also interested in **AI alignment** and aim to bridge the research gap between trustworthy AI and AI alignment.
 
 <!--# Education
 ---
