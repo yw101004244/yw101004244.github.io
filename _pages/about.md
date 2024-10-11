@@ -24,6 +24,19 @@ Currently, I am also interested in **AI alignment** and aim to bridge the resear
 
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
+# Preprint
+---
+
+**\* indicates equal contribution**
+
+
+### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
+
+**Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
+<br>
+arXiv preprint arXiv:2410.06851 
+
+
 # Selected Publications
 ---
 
