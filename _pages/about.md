@@ -12,8 +12,9 @@ redirect_from:
 Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I previously earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
 I am interested in trustworthy AI, particularly focusing on robustness and fairness:
-- **Robustness**. Developing powerful and solid attack and defense algorithms for AI.
+- **Robustness**. Developing theoretical analysis of attack & defense methods in AI.
 - **Fairness**. Formulating intuitive and rigorous solutions to reduce AI discrimination.
+Now I'm also interested in theoretical analysis of large language models.
 
 <!--# Education
 ---
