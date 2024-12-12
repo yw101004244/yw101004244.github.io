@@ -74,6 +74,6 @@ National Scholarship, 2019
 
 Conference Reviewer: ICLR 2025, AISTATS 2025
 
-Journal Reviewer: Transactions on Machine Learning Research
+Journal Reviewer: TMLR
 
 
