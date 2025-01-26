@@ -24,16 +24,11 @@ Now I'm also interested in theoretical analysis of large language models.
 
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
-# Selected Papers
+
+# Publications (First Author and First Co-author)
 ---
 
 **\* indicates equal contribution**
-
-### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
-
-**Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
-<br>
-arXiv preprint arXiv:2410.06851 
 
 ### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
 
@@ -58,6 +53,20 @@ EACL 2024
 Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
 <br>
 CVPR 2023  
+
+
+# Preprint
+---
+
+**\* indicates equal contribution**
+
+### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
+
+**Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
+<br>
+arXiv preprint arXiv:2410.06851 
+
+
 
 # Research Intern
 ---
