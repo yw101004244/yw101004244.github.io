@@ -25,7 +25,7 @@ Now I'm also interested in theoretical analysis of large language models.
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
 
-# Publications (First Author and First Co-author)
+# Selected Publications
 ---
 
 **\* indicates equal contribution**
