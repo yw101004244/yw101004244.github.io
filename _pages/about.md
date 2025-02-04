@@ -60,6 +60,12 @@ CVPR 2023
 
 **\* indicates equal contribution**
 
+### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://arxiv.org/pdf/2502.01458)
+
+**Wei Yao**, Wenkai Yang, Ziqiao Wang, Yankai Lin, Yong Liu
+<br>
+arXiv preprint arXiv:2502.01458
+
 ### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
 
 **Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
