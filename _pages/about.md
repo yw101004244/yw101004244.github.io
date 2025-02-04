@@ -26,36 +26,6 @@ I am interested in trustworthy AI (with theoretical insights and empirical fasci
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
 
-# Selected Publications
----
-
-**\* indicates equal contribution**
-
-### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
-
-**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
-<br>
-TMLR 2024  
-
-### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
-
-Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
-<br>
-ACL 2024
-
-### [Random Smooth-based Certified Defense against Text Adversarial Attack](https://aclanthology.org/2024.findings-eacl.83.pdf)
-
-Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
-<br>
-EACL 2024
-
-### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
-
-Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
-<br>
-CVPR 2023  
-
-
 # Preprint
 ---
 
@@ -73,6 +43,37 @@ arXiv preprint arXiv:2502.01458
 <br>
 arXiv preprint arXiv:2410.06851 
 
+
+
+
+# Selected Publications
+---
+
+**\* indicates equal contribution**
+
+### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+
+**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
+<br>
+**TMLR 2024**
+
+### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
+
+Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
+<br>
+**ACL 2024** (findings)
+
+### [Random Smooth-based Certified Defense against Text Adversarial Attack](https://aclanthology.org/2024.findings-eacl.83.pdf)
+
+Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
+<br>
+**EACL 2024** (findings)
+
+### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
+
+Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
+<br>
+**CVPR 2023**
 
 
 # Research Intern
