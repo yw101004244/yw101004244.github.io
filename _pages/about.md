@@ -11,11 +11,12 @@ redirect_from:
 
 Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I previously earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
-I am interested in trustworthy AI, particularly focusing on robustness and fairness:
-- **Robustness**. Developing theoretical analysis of attack & defense methods in AI.
-- **Fairness**. Formulating intuitive and rigorous solutions to reduce AI discrimination.
+I am interested in trustworthy AI, particularly:
+- **Robustness**. Developing theoretical analysis of attack & defense methods: [arXiv](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
+- **Fairness**. Formulating intuitive and rigorous solutions to reduce AI discrimination: [TMLR24](https://arxiv.org/pdf/2310.11211.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
+- **Super-alignment**. [arXiv](https://arxiv.org/pdf/2502.01458).
+- **Interpretability**. [ACL24](https://arxiv.org/pdf/2402.19465.pdf).
 
-Now I'm also interested in theoretical analysis of large language models.
 
 <!--# Education
 ---
