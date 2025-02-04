@@ -13,9 +13,9 @@ Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of
 
 I am interested in trustworthy AI (with theoretical insights and empirical fascination), particularly:
 - **AI Alignment**. [arXiv](https://arxiv.org/pdf/2502.01458).
-- **Interpretability**. [ACL24](https://arxiv.org/pdf/2402.19465.pdf).
+- **Interpretability**. [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf).
 - **Robustness**. [arXiv](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
-- **Fairness**. [TMLR24](https://arxiv.org/pdf/2310.11211.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
+- **Fairness**. [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
 
 <!--# Education
@@ -51,13 +51,13 @@ arXiv preprint arXiv:2410.06851
 
 **\* indicates equal contribution**
 
-### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://arxiv.org/pdf/2310.11211.pdf)
+### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://openreview.net/pdf?id=iBgmoMTlaz)
 
 **Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 <br>
 **TMLR 2024**
 
-### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://arxiv.org/pdf/2402.19465.pdf)
+### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
 Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
