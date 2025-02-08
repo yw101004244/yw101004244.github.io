@@ -21,14 +21,14 @@ repository               : "yw101004244/yw101004244.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yw_2_small.jpg"
+  avatar           : "yw_boxing.jpg"
   name             : "Wei Yao"
   pronouns         : # example: "she/her"  
   bio              : "A third-year PhD student in Renmin University of China"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   uri              : # URL
-  email            : "weiyao_2.0@outlook.com" 
+  email            : "wei.yao@ruc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
