@@ -57,7 +57,7 @@ arXiv preprint arXiv:2410.06851
 <br>
 **TMLR 2024**
 
-### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
+### [Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
 Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
