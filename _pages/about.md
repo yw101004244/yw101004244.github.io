@@ -41,7 +41,7 @@ arXiv preprint arXiv:2502.11107
 
 ### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://arxiv.org/pdf/2502.01458)
 
-**Wei Yao**, Wenkai Yang, Ziqiao Wang, Yankai Lin, Yong Liu
+**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
 <br>
 arXiv preprint arXiv:2502.01458
 
