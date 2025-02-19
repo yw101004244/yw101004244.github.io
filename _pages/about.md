@@ -63,7 +63,7 @@ arXiv preprint arXiv:2410.06851
 
 **Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 <br>
-**TMLR 2024**
+**TMLR 2024** (TMLR-to-ICLR pilot program)
 
 ### [Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
