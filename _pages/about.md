@@ -64,13 +64,13 @@ arXiv preprint arXiv:2410.06851
 
 Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
-**ACL 2024** (Findings)
+**ACL 2024**
 
 ### [Random Smooth-based Certified Defense against Text Adversarial Attack](https://aclanthology.org/2024.findings-eacl.83.pdf)
 
 Zeliang Zhang\*, **Wei Yao\***, Susan Liang, Chenliang Xu
 <br>
-**EACL 2024** (Findings)
+**EACL 2024**
 
 ### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
