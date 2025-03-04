@@ -9,15 +9,14 @@ redirect_from:
 
 ---
 
-Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I previously earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
+Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China. It's a great fortunate to be advised by [Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong). I earned my B.E. degree in Software Engineering from Huazhong University of Science and Technology in June 2022.
 
-My research focuses on trustworthy AI (with theoretical insights and empirical fascination), particularly:
-- **AI Alignment**. [arXiv](https://arxiv.org/pdf/2502.01458), [arXiv](https://arxiv.org/pdf/2502.11107).
+My previous research focused on trustworthy AI (with theoretical insights and empirical fascination), particularly:
 - **Interpretability**. [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf).
-- **Robustness**. [arXiv](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
+- **Robustness**. [arXiv 2410.06851](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
 - **Fairness**. [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
-Currently, I am deeply engaged in advancing the trustworthiness of LLMs, with a particular emphasis on superalignment.
+Currently, I am deeply engaged in advancing the trustworthiness of LLMs, with a particular emphasis on superalignment: [arXiv 2502.01458](https://arxiv.org/pdf/2502.01458), [arXiv 2502.11107](https://arxiv.org/pdf/2502.11107).
 
 
 <!--# Education
