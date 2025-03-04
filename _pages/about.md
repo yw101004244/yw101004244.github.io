@@ -13,10 +13,10 @@ Hi there, welcome! I'm currently a third-year Ph.D. student in Gaoling School of
 
 My previous research focused on trustworthy AI (with theoretical insights and empirical fascination), particularly:
 - **Interpretability**. [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf).
-- **Robustness**. [arXiv 2410.06851](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
+- **Robustness**. [arXiv:2410.06851](https://arxiv.org/pdf/2410.06851), [EACL24](https://aclanthology.org/2024.findings-eacl.83.pdf)
 - **Fairness**. [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
-Currently, I am deeply engaged in advancing the trustworthiness of LLMs, with a particular emphasis on superalignment: [arXiv 2502.01458](https://arxiv.org/pdf/2502.01458), [arXiv 2502.11107](https://arxiv.org/pdf/2502.11107).
+Currently, I am deeply engaged in advancing the trustworthiness of LLMs, with a particular emphasis on superalignment: [arXiv:2502.01458](https://arxiv.org/pdf/2502.01458), [arXiv:2502.11107](https://arxiv.org/pdf/2502.11107).
 
 
 <!--# Education
