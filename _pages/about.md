@@ -34,7 +34,7 @@ Currently, I am deeply engaged in the theoretical analysis of superalignment, es
 <br>
 arXiv preprint arXiv:2502.11107
 
-### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://arxiv.org/pdf/2502.01458)
+### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://openreview.net/pdf?id=RwYdLgj1S6)
 
 **Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
 <br>
