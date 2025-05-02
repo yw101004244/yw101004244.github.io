@@ -56,7 +56,7 @@ arXiv preprint arXiv:2502.01458
 
 **Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
 <br>
-**TMLR 2024** (TMLR-to-ICLR pilot program)
+**TMLR 2024**
 
 ### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
