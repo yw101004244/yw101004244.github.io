@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Wei Yao"
 author_profile: true
 redirect_from: 
   - /about/
