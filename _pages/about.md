@@ -88,6 +88,6 @@ National Scholarship, 2019
 # Service
 ---
 
-Reviewer: ICLR 2025, AISTATS 2025, ACL ARR 2025 Feb, TMLR
+Reviewer: ICLR, AISTATS, ACL, TMLR
 
 
