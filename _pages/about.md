@@ -88,6 +88,6 @@ National Scholarship, 2019
 # Service
 ---
 
-**Reviewer**: ICLR, AISTATS, ACL, TMLR
+**Reviewer**: ICLR, AISTATS, ACL, EMNLP, TMLR
 
 
