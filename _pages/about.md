@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, welcome! I am currently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am truly honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. From October 2023 to March 2024, I had the privilege of working as a Research Intern at Shanghai AI Laboratory, under the mentorship of **[Dr. Jing Shao](https://amandajshao.github.io/)**.
 
-Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**, a recognition that motivated me to pursue further research in AI.
+Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. It's a great fortune to be advised by **[Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)**. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**, a recognition that motivated me to pursue further research in AI.
 
 # Research Interests
 ---
