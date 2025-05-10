@@ -66,7 +66,7 @@ arXiv preprint arXiv:2502.01458
 
 Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
 <br>
-**Findings of ACL 2024**
+**ACL 2024**(Findings)
 
 ### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
