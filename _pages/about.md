@@ -50,8 +50,6 @@ arXiv preprint arXiv:2502.01458
 # Selected Publications
 ---
 
-**\* indicates equal contribution**
-
 ### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
 
 **Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
