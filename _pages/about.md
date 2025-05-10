@@ -32,7 +32,7 @@ Currently, I am deeply engaged in the theoretical analysis of superalignment, es
 # Preprints
 ---
 
-**\* indicates equal contribution**
+(\* indicates equal contribution)
 
 ### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
 
@@ -49,6 +49,8 @@ arXiv preprint arXiv:2502.01458
 
 # Selected Publications
 ---
+
+(\* indicates equal contribution)
 
 ### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
 
