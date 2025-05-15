@@ -18,7 +18,7 @@ Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engin
 
 My previous research focused on trustworthy AI, including fairness, robustness and interpretability: [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
-Currently, I am deeply engaged in the theoretical analysis of superalignment, especially weak-to-strong generalization: [arXiv:2502.01458](https://arxiv.org/pdf/2502.01458), [arXiv:2502.11107](https://arxiv.org/pdf/2502.11107).
+Currently, I am deeply engaged in the theoretical analysis of superalignment, especially weak-to-strong generalization: [arXiv:2502.01458](https://arxiv.org/pdf/2502.01458), [ACL25](https://arxiv.org/pdf/2502.11107).
 
 
 <!--# Education
@@ -34,12 +34,6 @@ Currently, I am deeply engaged in the theoretical analysis of superalignment, es
 
 (\* indicates equal contribution)
 
-### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
-
-**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
-<br>
-arXiv preprint arXiv:2502.11107
-
 ### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://openreview.net/pdf?id=RwYdLgj1S6)
 
 **Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
@@ -51,6 +45,12 @@ arXiv preprint arXiv:2502.01458
 ---
 
 (\* indicates equal contribution)
+
+### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
+
+**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
+<br>
+**ACL 2025** (Findings)
 
 ### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
 
