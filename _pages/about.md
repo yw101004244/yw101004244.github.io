@@ -32,11 +32,17 @@ Currently, I am deeply engaged in the theoretical analysis of superalignment, es
 # Preprints
 ---
 
-(\* indicates equal contribution)
+(\* indicates equal contribution, \# indicates corresponding authors)
+
+### [On the Emergence of Weak-to-Strong Generalization: A Bias-Variance Perspective](https://www.arxiv.org/pdf/2505.24313)
+
+Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
+<br>
+arXiv preprint arXiv:2505.24313
 
 ### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://openreview.net/pdf?id=RwYdLgj1S6)
 
-**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
+**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu\#
 <br>
 arXiv preprint arXiv:2502.01458
 
@@ -48,31 +54,31 @@ arXiv preprint arXiv:2502.01458
 
 ### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
 
-**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu
+**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu\#
 <br>
 **ACL 2025** (Findings)
 
 ### [Understanding Model Ensemble in Transferable Adversarial Attack](https://arxiv.org/pdf/2410.06851)
 
-**Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu
+**Wei Yao\***, Zeliang Zhang\*, Huayi Tang, Yong Liu\#
 <br>
 **ICML 2025**
 
 ### [Understanding Fairness Surrogate Functions in Algorithmic Fairness](https://openreview.net/pdf?id=iBgmoMTlaz)
 
-**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu
+**Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu\#
 <br>
 **TMLR 2024**
 
 ### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
-Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao
+Chen Qian\*, Jie Zhang\*, **Wei Yao\***, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu\#, Jing Shao\#
 <br>
 **ACL 2024** (Findings)
 
 ### [Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf)
 
-Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu
+Pengwei Tang\*, **Wei Yao\***, Zhicong Li, Yong Liu\#
 <br>
 **CVPR 2023**
 
