@@ -46,9 +46,9 @@ Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
 <br>
 arXiv preprint arXiv:2505.24313
 
-### [Understanding the Capabilities and Limitations of Weak-to-Strong Generalization](https://openreview.net/pdf?id=RwYdLgj1S6)
+### [The Capabilities and Limitations of Weak-to-Strong Generalization: Generalization and Calibration](https://arxiv.org/pdf/2502.01458)
 
-**Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu\#
+**Wei Yao\***, Wenkai Yang\*, Gengze Xu, Ziqiao Wang, Yankai Lin, Yong Liu\#
 <br>
 arXiv preprint arXiv:2502.01458
 
