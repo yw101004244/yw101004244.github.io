@@ -34,6 +34,12 @@ Currently, I am deeply engaged in the theoretical analysis of superalignment, es
 
 (\* indicates equal contribution, \# indicates corresponding authors)
 
+### [On Weak-to-Strong Generalization and f-Divergence](https://arxiv.org/pdf/2506.03109)
+
+**Wei Yao\***, Gengze Xu\*, Huayi Tang, Wenkai Yang, Donglin Di, Ziqiao Wang, Yong Liu\#
+<br>
+arXiv preprint arXiv:2506.03109
+
 ### [On the Emergence of Weak-to-Strong Generalization: A Bias-Variance Perspective](https://www.arxiv.org/pdf/2505.24313)
 
 Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
