@@ -18,7 +18,7 @@ Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engin
 
 My previous research focused on trustworthy AI, including fairness, robustness and interpretability: [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
-Currently, I am deeply engaged in the theoretical analysis of superalignment, especially weak-to-strong generalization: [ACL25](https://arxiv.org/pdf/2502.11107), [arXiv:2502.01458](https://arxiv.org/pdf/2502.01458), [arXiv:2505.24313](https://www.arxiv.org/pdf/2505.24313).
+I'm currently focused on superalignment, particularly the area of weak-to-strong generalization, as demonstrated by my work in [ACL25](https://arxiv.org/pdf/2502.11107) and several upcoming preprints.
 
 
 <!--# Education
