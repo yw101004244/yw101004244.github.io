@@ -56,8 +56,6 @@ arXiv preprint arXiv:2502.01458
 # Selected Publications
 ---
 
-(\* indicates equal contribution)
-
 ### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
 
 **Wei Yao\***, Wenkai Yang\*, Ziqiao Wang, Yankai Lin, Yong Liu\#
