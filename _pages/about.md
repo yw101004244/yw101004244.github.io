@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi there, welcome! I am currently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am truly honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory, I was fortunate to work under the guidance of **[Dr. Jing Shao](https://amandajshao.github.io/)**.
+Hi there, welcome! I am currently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am truly honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory, I was fortunate to work under the guidance of **[Prof. Jing Shao](https://amandajshao.github.io/)**.
 
 Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. I’m very fortunate to be advised by **[Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)**. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**, a recognition that motivated me to pursue further research in AI.
 
