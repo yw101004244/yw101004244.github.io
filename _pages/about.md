@@ -102,6 +102,6 @@ National Scholarship, 2019-->
 # Service
 ---
 
-**Reviewer**: NeurIPS, ICLR, AISTATS, TMLR, ACL, EMNLP
+**Reviewer**: NeurIPS, ICLR, AISTATS, TMLR, AAAI, ACL, EMNLP
 
 
