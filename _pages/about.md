@@ -29,7 +29,7 @@ I'm currently focused on superalignment, particularly the area of weak-to-strong
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
 
-# Preprints
+<!--# Preprints
 ---
 
 (\* indicates equal contribution, \# indicates corresponding authors)
@@ -50,7 +50,7 @@ arXiv preprint arXiv:2505.24313
 
 **Wei Yao\***, Wenkai Yang\*, Gengze Xu, Ziqiao Wang, Yankai Lin, Yong Liu\#
 <br>
-arXiv preprint arXiv:2502.01458
+arXiv preprint arXiv:2502.01458-->
 
 
 # Selected Publications
