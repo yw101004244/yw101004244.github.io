@@ -18,7 +18,7 @@ From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory,
 
 My previous research focused on trustworthy AI, including fairness, robustness and interpretability: [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
-I'm currently focused on superalignment, particularly the area of weak-to-strong generalization, as demonstrated by our work in [ACL25](https://arxiv.org/pdf/2502.11107) and several upcoming preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JbYPAqoAAAAJ)).
+I'm currently focused on superalignment, particularly the area of weak-to-strong generalization, as demonstrated by our work in [ACL25](https://arxiv.org/pdf/2502.11107), [ICML 2026](https://www.arxiv.org/pdf/2505.24313) and several upcoming preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JbYPAqoAAAAJ)).
 
 
 <!--# Education
@@ -57,6 +57,12 @@ arXiv preprint arXiv:2502.01458-->
 ---
 
 (\* indicates equal contribution, \# indicates corresponding authors)
+
+### [On the Emergence of Weak-to-Strong Generalization: A Bias-Variance Perspective](https://www.arxiv.org/pdf/2505.24313)
+
+Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
+<br>
+**ICML 2026**
 
 ### [Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL](https://arxiv.org/pdf/2502.11107)
 
