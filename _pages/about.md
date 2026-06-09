@@ -16,7 +16,7 @@ From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory,
 # Research Interests
 ---
 
-I'm currently focused on superalignment, particularly the area of weak-to-strong generalization, as demonstrated by our work in [ICML 2026](https://www.arxiv.org/pdf/2505.24313), [ACL25](https://arxiv.org/pdf/2502.11107) and several upcoming preprints (such as [arXiv:2605.05710](https://arxiv.org/pdf/2605.05710)). My previous research focused on trustworthy AI, including fairness, robustness and interpretability: [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
+I am currently interested in trustworthy learning under imperfect supervision, with a particular focus on weak supervision, weak-to-strong generalization, and preference-based alignment. My recent work studies how strong models can learn reliably from weak, noisy, or limited supervision, as demonstrated by our work in [ICML 2026](https://www.arxiv.org/pdf/2505.24313), [ACL25](https://arxiv.org/pdf/2502.11107) and several upcoming preprints (such as [arXiv:2605.05710](https://arxiv.org/pdf/2605.05710)). My previous research focused on trustworthy AI, including fairness, robustness and interpretability: [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
 
 <!--# Education
@@ -78,7 +78,7 @@ Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
 
 **Wei Yao\***, Zhanke Zhou\*, Zhicong Li, Bo Han, Yong Liu\#
 <br>
-**TMLR 2024** (Presented at ICLR 2025)
+**TMLR 2024** (Presented at **ICLR 2025**, Journal-to-Conference Track)
 
 ### [Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models](https://aclanthology.org/2024.findings-acl.290.pdf)
 
