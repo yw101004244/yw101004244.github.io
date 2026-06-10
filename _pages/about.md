@@ -27,28 +27,22 @@ I am currently interested in **trustworthy learning under imperfect supervision*
 - 2022-Present: Ph.D. Student in Artificial Intelligence at Renmin University of China.-->
 
 
-<!--# Preprints
+# Preprints
 ---
 
 (\* indicates equal contribution, \# indicates corresponding authors)
+
+### [On the Blessing of Pre-training in Weak-to-Strong Generalization](https://arxiv.org/pdf/2605.05710)
+
+**Wei Yao**, Wang Zhaoyang, Gengze Xu, Chen Qian, Dongrui Liu, Ziqiao Wang, Yong Liu\#, Yunbei Xu\#
+<br>
+arXiv preprint arXiv:2605.05710
 
 ### [On Weak-to-Strong Generalization and f-Divergence](https://arxiv.org/pdf/2506.03109)
 
 **Wei Yao\***, Gengze Xu\*, Huayi Tang, Wenkai Yang, Donglin Di, Ziqiao Wang, Yong Liu\#
 <br>
 arXiv preprint arXiv:2506.03109
-
-### [On the Emergence of Weak-to-Strong Generalization: A Bias-Variance Perspective](https://www.arxiv.org/pdf/2505.24313)
-
-Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
-<br>
-arXiv preprint arXiv:2505.24313
-
-### [The Capabilities and Limitations of Weak-to-Strong Generalization: Generalization and Calibration](https://arxiv.org/pdf/2502.01458)
-
-**Wei Yao\***, Wenkai Yang\*, Gengze Xu, Ziqiao Wang, Yankai Lin, Yong Liu\#
-<br>
-arXiv preprint arXiv:2502.01458-->
 
 
 # Selected Publications
