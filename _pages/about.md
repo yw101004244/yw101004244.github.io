@@ -108,17 +108,8 @@ National Scholarship, 2019-->
 ---
 
 Beyond academic research, I enjoy applying the same research mindset to everyday phenomena and online communities: observing a puzzling outcome, forming hypotheses, identifying the underlying mechanism, and explaining it clearly. 
-
-##### [Listening Underwater: A Small Experiment in Swimming Design (2023)](/understanding/underwater-music/)
-
-Can music remain continuous while swimming? A small experiment involving Bluetooth constraints, offline playback, underwater sound propagation, and different swimming postures.
-
-##### [The Bathhouse Queue Mystery: When a Bottleneck Moves (2024)](/understanding/bathhouse-queue/)
-
-Why did the outdoor queue suddenly disappear while the bathhouse remained crowded? An investigation through observation, hypothesis generation, process analysis, and validation with the manager.
-
-##### [The Bearing Wall and the Flowers: Leadership and Invisible Labor in an Online Community (2025)](https://yw101004244.github.io/understanding/online-communities/)
-
-A case study of leadership, coordination, incentives, and invisible labor in a large online community.
+- [Listening Underwater: A Small Experiment in Swimming Design (2023)](/understanding/underwater-music/): Can music remain continuous while swimming? A small experiment involving Bluetooth constraints, offline playback, underwater sound propagation, and different swimming postures.
+- [The Bathhouse Queue Mystery: When a Bottleneck Moves (2024)](/understanding/bathhouse-queue/): Why did the outdoor queue suddenly disappear while the bathhouse remained crowded? An investigation through observation, hypothesis generation, process analysis, and validation with the manager.
+- [The Bearing Wall and the Flowers: Leadership and Invisible Labor in an Online Community (2025)](https://yw101004244.github.io/understanding/online-communities/): A case study of leadership, coordination, incentives, and invisible labor in a large online community.
 
 
