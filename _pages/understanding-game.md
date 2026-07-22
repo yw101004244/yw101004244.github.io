@@ -1,107 +1,103 @@
 ---
 permalink: /understanding/online-communities/
-title: "The Bearing Wall and the Flowers: Invisible Labor in Online Communities"
-excerpt: "Field notes on reliability, recognition, burnout, and the tension between performance and belonging in an online strategy-game alliance."
+title: "The Bearing Wall and the Flowers: Leadership and Invisible Labor in an Online Community"
+excerpt: "An anonymized case study of leadership, coordination, incentives, and invisible labor in a large online community."
 author_profile: true
 share: false
 comments: false
 ---
 
-<p class="understanding-back"><a href="/understanding/">← Back to the Understanding Series</a></p>
+[← Back to homepage](https://yw101004244.github.io/)
 
-<div class="understanding-article-meta">
-  <span>Exploration 03</span>
-  <span>Organizations</span>
-  <span>Leadership & incentives</span>
-</div>
+> **In one sentence.** A large online strategy game became a useful case study of how voluntary organizations coordinate people, distribute responsibility, recognize invisible work, and balance performance with participation.
 
-<div class="understanding-summary" markdown="1">
-**In one sentence.** Reliable organizers often become a community's invisible infrastructure: competence attracts more responsibility, responsibility creates dependency, and work that prevents failure receives less recognition than contributions that are easier to see and celebrate.
-</div>
+## Why this case belongs here
 
-## The field site
+This case examines organizational mechanisms in a setting where participation is voluntary, information is incomplete, authority is partly informal, and collective outcomes depend on coordination.
 
-My “field site” was an alliance in a large online strategy game. The alliance had rules, scarce resources, repeated competitions, technical mechanics, informal status, and dozens of people coordinating under time pressure. In miniature, it contained many features of an organization.
+The setting was a well-known multiplayer strategy game released under different regional names, including *无尽冬日* and *寒霜启示录*. For a period, I served as the in-game “king” of a server with roughly one thousand players. In that role, I coordinated across alliances during large-scale competitions, including several successful campaigns.
 
-I analyzed battles, wrote reports, explained strategies, scheduled events, answered questions, tagged members, and tried to help people understand why a plan worked. What I gained was not only game enjoyment or social contact. The alliance gave me a place to create explanations for a complex system and make those explanations useful to other people.
+Those details establish the scale of the experience; they are not the point of the article. The more interesting question is what the experience revealed about leadership and system design. To protect the people involved, I deliberately omit the server number, alliance names, player identities, dates, private conversations, and specific battle records.
 
-It also made the costs of that role unusually visible.
+## Leadership without formal authority
+
+An online community is not a company. Members are not employees, and an in-game title does not create the same authority as a formal management position. Most participation depends on trust, shared goals, reputation, and whether a plan feels worth following.
+
+This makes coordination an unusually clear design problem. A leader cannot rely only on instructions. A workable plan must also answer several practical questions:
+
+- Can people understand the goal quickly?
+- Do they know what action is expected from them?
+- Is the cost of participating reasonable?
+- Can the plan survive incomplete information and last-minute changes?
+- Do members still feel that they have agency?
+
+Winning required more than choosing a technically strong strategy. It required turning analysis into a plan that many people could execute under time pressure.
 
 ## The reliability loop
 
-When one organizer repeatedly solves problems, a reinforcing loop can emerge:
+When one organizer repeatedly solves difficult problems, a reinforcing loop can emerge:
 
-<div class="understanding-flow" aria-label="The reliability loop in a community">
-  <div>Competence becomes visible</div>
-  <div>More questions arrive</div>
-  <div>Responsibility concentrates</div>
-  <div>Others rely on the organizer</div>
-  <div>Invisible labor expands</div>
-</div>
+1. competence becomes visible;
+2. more questions and decisions flow toward that person;
+3. responsibility becomes concentrated;
+4. others begin to treat that reliability as part of the environment;
+5. the organizer becomes both more valuable and a larger single point of failure.
 
-People are not necessarily exploiting the organizer deliberately. They are adapting rationally: if a problem is likely to be solved, waiting is cheaper than taking ownership. The organizer's reliability becomes part of the environment.
+This process does not require bad intentions. Delegating a problem to the person most likely to solve it is locally rational. But repeated many times, that choice can make the whole organization dependent on a small number of people.
 
-This produces a paradox. The better the organizer prevents failure, the less visible the prevented failure becomes. The community experiences a functioning system; it does not automatically perceive the analysis, reminders, judgment, and emotional regulation that made the system function.
+The lesson is not that reliable people should contribute less. It is that a healthy organization should convert individual reliability into shared capacity through documentation, role rotation, reusable procedures, and clearer ownership.
 
 ## The bearing wall and the flowers
 
-A metaphor helped me understand the recognition gap: **people praise the flowers by the window, but rarely thank the bearing wall.**
+A metaphor helped me understand why some contributions are easier to recognize than others: **people notice the flowers by the window, but rarely discuss the bearing wall.**
 
-Warm messages, jokes, and public encouragement are flowers. They are visible, immediate, and socially easy to reward. Scheduling, mechanism analysis, risk prevention, and conflict absorption are bearing walls. They matter precisely because everyone can forget they are there.
+Public encouragement, entertaining messages, and visible achievements are like flowers. They are immediate, memorable, and easy to celebrate. Scheduling, risk assessment, conflict prevention, contingency planning, and repeated explanation are more like a bearing wall. Their value often becomes visible only when they are missing.
 
-The metaphor is not a claim that one form of contribution is superior. A building needs both. It explains why technically valuable work can feel under-recognized, and why a community can depend on someone without expressing that dependence in the language the person hopes to hear.
+Neither form of contribution is superior. A durable community needs both. The problem appears when visible contributions receive nearly all the recognition while maintenance work quietly accumulates around a few dependable organizers.
 
-## Two objectives, not one
+This recognition gap matters because feedback shapes future effort. If a community celebrates only final victories, it may underinvest in the less visible work that makes those victories repeatable.
 
-The alliance also exposed an optimization mismatch:
+## Performance and participation are different objectives
 
-- a **performance objective** values better strategy, deeper analysis, clearer coordination, and more wins;
-- a **belonging objective** values participation, warmth, autonomy, playfulness, and the feeling that everyone has a place.
+The experience also revealed a recurring tension between two legitimate goals:
 
-Increasing one does not always increase the other. A detailed strategy may improve outcomes while making members feel that decisions are already complete. A socially gifted organizer may mobilize people with less technical depth. Centralized competence can win battles and still weaken ownership.
+- a **performance objective** values accurate analysis, efficient coordination, disciplined execution, and winning;
+- a **participation objective** values autonomy, belonging, enjoyment, and the feeling that many members have a meaningful role.
 
-The management problem is therefore not “serious versus casual.” It is a multi-objective design problem: how much analysis is enough, who communicates it, where members retain agency, and what kind of success the group is actually optimizing.
+A plan can improve performance while weakening participation. For example, a small expert group may produce a better strategy, but a fully specified plan can leave other members feeling that their judgment is unnecessary. Conversely, a highly participatory process may strengthen commitment while making decisions slower or less consistent.
 
-## What transfers beyond the game
+The management question is therefore not “serious or casual.” It is how to design a process that preserves enough analytical quality without turning the rest of the community into passive executors.
 
-The most valuable discovery was personal. The game did not create a new identity; it revealed a recurring one. In research and in the alliance, I was drawn to the same sequence:
+## From heroic leadership to system design
 
-1. notice a confusing outcome;
-2. reconstruct the mechanism;
-3. organize scattered evidence;
-4. explain the system so that someone else can use it.
+Several practical responses follow from these observations:
 
-That made the time meaningful—but meaningful experience does not have to become permanent commitment. The value lies in what can be transferred: analytical leadership, explanation, synthesis, and a better understanding of the conditions under which I work well.
+- rotate responsibilities before dependency becomes normal;
+- turn repeated explanations into short, reusable guides;
+- separate strategic analysis from community-facing communication when the roles require different strengths;
+- assign clear owners to recurring tasks instead of relying on whoever notices the problem first;
+- create explicit recognition for maintenance and coordination work;
+- preserve some decisions that members can genuinely shape;
+- design fallback plans so that one unavailable organizer does not stop the system.
 
-## Design responses
+These interventions are not only about reducing workload. They create redundancy, distribute knowledge, and make collective performance more robust.
 
-The observations suggest several practical interventions for volunteer communities:
+## Evidence, scope, and privacy
 
-- rotate event ownership before dependency becomes normal;
-- turn repeated explanations into short, reusable playbooks;
-- separate analysis from community-facing communication when those roles demand different strengths;
-- answer the question that was asked before offering the entire model;
-- create explicit feedback rituals for maintenance and coordination work;
-- treat boundaries as part of system design, not as a personal failure of commitment.
+This article is an anonymized reflection based on one participant-observer’s experience in one online community. The scale was large enough to expose real coordination problems, but the observations are not a controlled study and should not be treated as general conclusions about games, companies, or other organizations.
 
-These interventions do more than protect one organizer. They preserve redundancy, distribute knowledge, and make the community less fragile.
+The account also intentionally leaves out operational and interpersonal details. That limits how closely a reader can audit individual events, but it is the appropriate trade-off for discussing organizational mechanisms without exposing other participants or turning a personal homepage into a record of private community history.
 
-## Evidence and limitations
+The relevant outcome is not that an alliance won particular battles. It is that the experience made several mechanisms easier to see: informal authority, concentrated responsibility, invisible labor, recognition, and the tension between performance and participation.
 
-These are reflective field notes from one participant-observer in one alliance. Emotions, status, friendships, and personal expectations shaped both the events and my interpretation. The mechanisms are plausible and recognizable, but they are not identified causally.
+## What transfers
 
-The goal is not to generalize from one game to every organization. It is to surface testable questions that ordinary management language can hide.
+The same analytical sequence appears in many settings:
 
-## Open questions
+1. observe an unexpected collective outcome;
+2. reconstruct the incentives and information available to each participant;
+3. identify where responsibility or knowledge is concentrated;
+4. distinguish visible success from the mechanisms supporting it;
+5. redesign the process so that the result depends less on individual heroics.
 
-- How can invisible coordination work be measured without turning a community into a bureaucracy?
-- When does expert explanation increase collective skill, and when does it reduce participation?
-- Which responsibilities should be rotated, automated, documented, or simply allowed to fail?
-- How can recognition reward both the flowers and the bearing walls?
-- What does a healthy exit look like when a role has already become part of one's identity?
-
-The broader lesson is simple: a community is not sustained only by the people everyone notices. It is also sustained by the mechanisms that make ordinary participation feel effortless—and by the people quietly maintaining those mechanisms.
-
-<div class="understanding-next" markdown="1">
-Return to the [Understanding Series](/understanding/) or the [homepage](/).
-</div>
+That is why this case belongs in the Understanding Series. The object happened to be an online game, but the subject is a broader one: how people coordinate inside a complex system, and how good leadership gradually turns personal effort into organizational capability.
