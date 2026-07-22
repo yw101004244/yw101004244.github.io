@@ -104,4 +104,21 @@ National Scholarship, 2019-->
 
 **Reviewer**: ICML, NeurIPS, ICLR, ACL, CVPR.
 
+# Understanding
+---
+
+Beyond academic research, I enjoy applying the same research mindset to everyday phenomena and online communities: observing a puzzling outcome, forming hypotheses, identifying the underlying mechanism, and explaining it clearly.
+
+### [Listening Underwater: A Small Experiment in Swimming Design](/understanding/underwater-music/)
+
+Can music remain continuous while swimming? A small experiment involving Bluetooth constraints, offline playback, underwater sound propagation, and different swimming postures.
+
+### [The Bathhouse Queue Mystery: When a Bottleneck Moves](/understanding/bathhouse-queue/)
+
+Why did the outdoor queue suddenly disappear while the bathhouse remained crowded? An investigation through observation, hypothesis generation, process analysis, and validation with the manager.
+
+### [The Bearing Wall and the Flowers: Invisible Labor in Online Communities](/understanding/online-communities/)
+
+What an online strategy-game alliance reveals about invisible organizational labor, recognition, leadership burnout, and the tension between performance and belonging.
+
 
