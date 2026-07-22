@@ -119,6 +119,6 @@ Why did the outdoor queue suddenly disappear while the bathhouse remained crowde
 
 ##### [The Bearing Wall and the Flowers: Leadership and Invisible Labor in an Online Community (2025)](https://yw101004244.github.io/understanding/online-communities/)
 
-An anonymized case study of leadership, coordination, incentives, and invisible labor in a large online community.
+A case study of leadership, coordination, incentives, and invisible labor in a large online community.
 
 
