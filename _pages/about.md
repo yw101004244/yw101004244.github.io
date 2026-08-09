@@ -9,14 +9,14 @@ redirect_from:
 
 ---
 
-Hi there, welcome! I am currently a fourth-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am truly honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. Now I'm a visiting student at the National University of Singapore, collaborating with **[Prof. Yunbei Xu](https://yunbeixu.github.io/)**. <span style="color: red;">I am expected to graduate in 2027 and am open to research-oriented opportunities in academia and industry, including postdoctoral and research scientist positions.</span>
+Hi there, welcome! I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, where I am honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. <span style="color: red;">I am expected to graduate in 2027 and am open to research-oriented opportunities in academia and industry, including postdoctoral and research scientist positions.</span>
 
-From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory, I was fortunate to work under the guidance of **[Prof. Jing Shao](https://amandajshao.github.io/)**. Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. I was fortunate to be advised by **[Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)**. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**, a recognition that motivated me to pursue further research in AI.
+From November 2025 to August 2026, I was a visiting Ph.D. student at the National University of Singapore, where I had the pleasure of working with **[Prof. Yunbei Xu](https://yunbeixu.github.io/)**. From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory, I was fortunate to work under the guidance of **[Prof. Jing Shao](https://amandajshao.github.io/)**. Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. I was fortunate to be advised by **[Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)**. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**, a recognition that motivated me to pursue further research in AI.
 
 # Research Interests
 ---
 
-I believe that as AI systems continue to become more capable, a central challenge in the coming years will be how to supervise AI without ground truth. Motivated by this perspective, my research focuses on **how LLMs can learn under imperfect supervision**, including weak supervision, weak-to-strong generalization, and preference-based alignment. I aim to study these questions across different stages of model development, from pre-training to fine-tuning, and to provide insights from both theoretical analysis and empirical validation.
+I believe that as AI systems continue to become more capable, a central challenge in the coming years will be how to supervise AI without ground truth. Motivated by this perspective, my research focuses on **how LLMs can learn under imperfect supervision**. I aim to study these questions across different stages of model development, from pre-training to fine-tuning, and to provide insights from both theoretical analysis and empirical validation.
 
 My recent work studies how strong models can learn reliably from weak, noisy, or limited supervision, as demonstrated by our work in [ICML 2026](https://www.arxiv.org/pdf/2505.24313), [ACL25](https://arxiv.org/pdf/2502.11107) and several upcoming preprints (such as [arXiv:2605.05710](https://arxiv.org/pdf/2605.05710)). My previous research focused on trustworthy AI, including fairness, robustness and interpretability, with publications at [ICML25](https://arxiv.org/pdf/2410.06851), [TMLR24](https://openreview.net/pdf?id=iBgmoMTlaz), [ACL24](https://aclanthology.org/2024.findings-acl.290.pdf), [CVPR23](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Fair_Scratch_Tickets_Finding_Fair_Sparse_Networks_Without_Weight_Training_CVPR_2023_paper.pdf).
 
@@ -104,12 +104,12 @@ National Scholarship, 2019-->
 
 **Reviewer**: ICML, NeurIPS, ICLR, ACL, CVPR.
 
-# Understanding
+# Misc
 ---
 
-Beyond academic research, I enjoy applying the same research mindset to everyday phenomena and online communities: observing a puzzling outcome, forming hypotheses, identifying the underlying mechanism, and explaining it clearly. 
+Beyond academic research, I enjoy applying the same research mindset to everyday phenomena. 
 - [Listening Underwater: A Small Experiment in Swimming Design (2023)](/understanding/underwater-music/): Can music remain continuous while swimming? A small experiment involving Bluetooth constraints, offline playback, underwater sound propagation, and different swimming postures.
-- [The Bathhouse Queue Mystery: When a Bottleneck Moves (2024)](/understanding/bathhouse-queue/): Why did the outdoor queue suddenly disappear while the bathhouse remained crowded? An investigation through observation, hypothesis generation, process analysis, and validation with the manager.
+- [The Bathhouse Queue Mystery: When a Bottleneck Moves (2024)](/understanding/bathhouse-queue/): Why did the outdoor queue suddenly disappear while the bathhouse remained crowded?
 - [The Bearing Wall and the Flowers: Leadership and Invisible Labor in an Online Community (2025)](https://yw101004244.github.io/understanding/online-communities/): A case study of leadership, coordination, incentives, and invisible labor in a large online community.
 
 
