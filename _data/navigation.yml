@@ -15,8 +15,8 @@ main:
   # - title: "My Past"
   #   url: /year-archive/
     
-   - title: "CV"
-     url: /files/CV_Wei_Yao.pdf
+   # - title: "CV"
+   #   url: /files/CV_Wei_Yao.pdf
     
   # - title: "Guide"
   #   url: /markdown/
