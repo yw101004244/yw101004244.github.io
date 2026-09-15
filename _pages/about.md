@@ -51,7 +51,7 @@ arXiv preprint arXiv:2506.03109
 
 (\* indicates equal contribution, \# indicates corresponding authors)
 
-### [On the Emergence of Weak-to-Strong Generalization: A Bias-Variance Perspective](https://www.arxiv.org/pdf/2505.24313)
+### [Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](https://www.arxiv.org/pdf/2505.24313)
 
 Gengze Xu\*, **Wei Yao\***, Ziqiao Wang\#, Yong Liu\#
 <br>
