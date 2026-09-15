@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi there, welcome! I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, where I am honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. <span style="color: red;">I am expected to graduate in 2027 and am open to research-oriented opportunities in academia and industry, including postdoctoral and research scientist positions.</span> View my [CV](/files/CV_Wei_Yao.pdf).
+Hi there, welcome! I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, where I am honored to be advised by **[Prof. Yong Liu](https://gsai.ruc.edu.cn/english/liuyong)**. <span style="color: red;">I am expected to graduate in 2027 and am open to research-oriented opportunities in academia and industry, including postdoctoral and research scientist positions.</span> Here is my [CV](/files/CV_Wei_Yao.pdf).
 
 From November 2025 to August 2026, I was a visiting Ph.D. student at the National University of Singapore, where I had the pleasure of working with **[Prof. Yunbei Xu](https://yunbeixu.github.io/)**. From October 2023 to March 2024, as a research intern at Shanghai AI Laboratory, I was fortunate to work under the guidance of **[Prof. Jing Shao](https://amandajshao.github.io/)**. Prior to my Ph.D. studies, I earned my Bachelor of Engineering in Software Engineering from Huazhong University of Science and Technology in June 2022. I was fortunate to be advised by **[Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en)**. During my undergraduate studies, I was honored to receive the **National Scholarship (2019)**.
 
